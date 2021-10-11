@@ -18,6 +18,7 @@ The purpose for this project is to refactor the code for the Horiseon website. T
 ### Links
 
 [Link to the deployed website](https://alex-soucy.github.io/horiseon-project/)
+
 [Link to the git repository](https://github.com/Alex-Soucy/horiseon-project)
 
 ![image of deployed webpage](.assets/images/horiseon-screenshot.png)
