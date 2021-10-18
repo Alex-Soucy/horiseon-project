@@ -21,4 +21,4 @@ The purpose for this project is to refactor the code for the Horiseon website. T
 
 [Link to the git repository](https://github.com/Alex-Soucy/horiseon-project)
 
-![image of deployed webpage](.assets/images/horiseon-screenshot.png)
+![image of deployed webpage](./assets/images/horiseon-screenshot.png)
