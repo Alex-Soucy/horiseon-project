@@ -1,4 +1,4 @@
-# Horiseon Prject
+# Horiseon Project
 
 ## Description
 
